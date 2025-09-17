@@ -1,0 +1,12 @@
+agno[all]
+python-dotenv
+pathlib
+typing-extensions
+crawl4ai
+tavily-python
+google-search-results
+googlesearch-python
+pycountry
+mcp
+fastapi
+uvicorn
