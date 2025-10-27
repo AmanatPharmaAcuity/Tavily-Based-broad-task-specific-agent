@@ -9,4 +9,8 @@ googlesearch-python
 pycountry
 mcp
 fastapi
+
 uvicorn
+ddgs
+exa_py
+trafilatura
